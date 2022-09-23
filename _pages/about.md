@@ -74,7 +74,7 @@ Honors
 Projects
 ======
 * Automation of Deep Learning Model Update Using Unlabeled Data
-  * Samsung ElectroMechanics (2021-2022)
+  * Samsung Electro-Mechanics (2021-2022)
 
 Skills
 ======
