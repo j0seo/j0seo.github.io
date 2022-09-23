@@ -31,23 +31,23 @@ Publications
 > <i style='font-style: normal;'>MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation<br></i>
 >> <i style='font-style: normal;'>**Junyoung Seo**\*, Gyuseong Lee\*, Seokju Cho, Jiyoung Lee, Seungryong Kim (*equally contributed)<br></i>
 >> <i style='font-style: normal;'>ArXiv Preprint, 2022.<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/MIDMs/">[Project Page]</a> <a href="https://arxiv.org/abs/2209.11047">[pdf]</a> 
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/MIDMs/">[Project]</a> <a href="https://arxiv.org/abs/2209.11047">[PDF]</a> 
 
 > <i style='font-style: normal;'>ConMatch: Semi-Supervised Learning with Confidence-Guided Consistency Regularization<br></i>
 >> <i style='font-style: normal;'>Jiwon Kim\*, Yeongjo Min\*, Daehwan Kim\*, Kwangrok Ryoo, Gyuseong Lee, **Junyoung Seo**, and Seungryong Kim (*equally contributed)<br></i>
 >> <i style='font-style: normal;'>European Conference on Computer Vision (ECCV), 2022.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2208.08631">[pdf]</a> 
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2208.08631">[PDF]</a> 
   
 > <i style='font-style: normal;'>Semi-Supervised Learning of Semantic Correspondence with Pseudo-Labels<br></i>
 >> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, **Junyoung Seo**\*, Gyuseong Lee\* , Daehwan Kim, Hansang Cho, and Seungryong Kim (*equally contributed)<br></i>
 >> <i style='font-style: normal;'>IEEE Conf. Computer Vision Pattern Recognition (CVPR), 2022<br></i>
->> <i style='font-style: normal;'><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Semi-Supervised_Learning_of_Semantic_Correspondence_With_Pseudo-Labels_CVPR_2022_paper.html">[pdf]</a> 
+>> <i style='font-style: normal;'><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Semi-Supervised_Learning_of_Semantic_Correspondence_With_Pseudo-Labels_CVPR_2022_paper.html">[PDF]</a> 
   
   
 > <i style='font-style: normal;'>AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning<br></i>
 >> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, Seokju Cho, **Junyoung Seo**, Daehwan Kim, Hansang Cho, and Seungryong Kim (*equally contributed)<br></i>
 >> <i style='font-style: normal;'>ArXiv Preprint, 2021.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2201.10444">[arXiv]</a>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2201.10444">[PDF]</a>
 
 
 Honors
