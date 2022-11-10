@@ -45,7 +45,7 @@ Publications
   
   
 > <i style='font-style: normal;'>AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning<br></i>
->> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, Seokju Cho, **Junyoung Seo**, Daehwan Kim, Hansang Cho, and Seungryong Kim (*equally contributed)<br></i>
+>> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, Seokju Cho, **Junyoung Seo**, Daehwan Kim, Hansang Cho, and Seungryong Kim <br></i>
 >> <i style='font-style: normal;'>ArXiv Preprint, 2021.<br></i>
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2201.10444">[Link]</a>
 
