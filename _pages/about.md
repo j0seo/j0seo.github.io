@@ -27,7 +27,18 @@ Experience
 
 Publications
 ======
+##Preprints
+> <i style='font-style: normal;'>DAG: Depth-Aware Guidance with Denoising Diffusion Probabilistic Models<br></i>
+>> <i style='font-style: normal;'>Gyeongnyeon Kim\*, Wooseok Jang\*, Gyuseong Lee\*, Susung Hong, Junyoung Seo, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>**ArXiv** Preprint, 2022.<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DAG/">[Project]</a> <a href="https://arxiv.org/abs/2212.08861">[Link]</a> 
 
+> <i style='font-style: normal;'>AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning<br></i>
+>> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, Seokju Cho, **Junyoung Seo**, Daehwan Kim, Hansang Cho, and Seungryong Kim <br></i>
+>> <i style='font-style: normal;'>**ArXiv** Preprint, 2021.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2201.10444">[Link]</a>
+  
+## International Conference
 > <i style='font-style: normal;'>MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation<br></i>
 >> <i style='font-style: normal;'>**Junyoung Seo**\*, Gyuseong Lee\*, Seokju Cho, Jiyoung Lee, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>AAAI Conference on Artificial Intelligence (**AAAI**), 2023.<br></i>
@@ -42,13 +53,6 @@ Publications
 >> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, **Junyoung Seo**\*, Gyuseong Lee\* , Daehwan Kim, Hansang Cho, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>IEEE Conf. Computer Vision Pattern Recognition (**CVPR**), 2022<br></i>
 >> <i style='font-style: normal;'><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Semi-Supervised_Learning_of_Semantic_Correspondence_With_Pseudo-Labels_CVPR_2022_paper.html">[Link]</a> 
-  
-  
-> <i style='font-style: normal;'>AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning<br></i>
->> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, Seokju Cho, **Junyoung Seo**, Daehwan Kim, Hansang Cho, and Seungryong Kim <br></i>
->> <i style='font-style: normal;'>**ArXiv** Preprint, 2021.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2201.10444">[Link]</a>
-
 
 Honors
 ======
