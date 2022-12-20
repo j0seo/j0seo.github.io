@@ -29,7 +29,7 @@ Publications
 ======
 ##Preprints
 > <i style='font-style: normal;'>DAG: Depth-Aware Guidance with Denoising Diffusion Probabilistic Models<br></i>
->> <i style='font-style: normal;'>Gyeongnyeon Kim\*, Wooseok Jang\*, Gyuseong Lee\*, Susung Hong, Junyoung Seo, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>Gyeongnyeon Kim\*, Wooseok Jang\*, Gyuseong Lee\*, Susung Hong, **Junyoung Seo**, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>**ArXiv** Preprint, 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DAG/">[Project]</a> <a href="https://arxiv.org/abs/2212.08861">[Link]</a> 
 
