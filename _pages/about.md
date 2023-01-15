@@ -60,6 +60,16 @@ Seungryong Kim, Kwang Hee Lee<br></i>
 >> <i style='font-style: normal;'>IEEE Conf. Computer Vision Pattern Recognition (**CVPR**), 2022<br></i>
 >> <i style='font-style: normal;'><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Semi-Supervised_Learning_of_Semantic_Correspondence_With_Pseudo-Labels_CVPR_2022_paper.html">[Link]</a> 
 
+Academic Services
+======
+## Reviewer
+* Computer Vision and Pattern Recognition (**CVPR**), 2023
+ 
+
+======
+* Automation of Deep Learning Model Update Using Unlabeled Data
+  * Samsung Electro-Mechanics (2021-2022)  
+  
 Honors
 ======
 * Award for Academic Excellence (2st Semester, 2021)
