@@ -65,10 +65,6 @@ Academic Services
 ## Reviewer
 * Computer Vision and Pattern Recognition (**CVPR**), 2023
  
-
-======
-* Automation of Deep Learning Model Update Using Unlabeled Data
-  * Samsung Electro-Mechanics (2021-2022)  
   
 Honors
 ======
