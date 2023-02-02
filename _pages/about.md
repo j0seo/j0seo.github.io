@@ -10,6 +10,10 @@ redirect_from:
 
 Education
 ======
+Hello! I am a 2nd-year M.S. student at Korea university under the supervision of Professor Seungryong Kim. My research interests are broadly in the fields of Machine Learning and Computer Vision, though I am not limited to a specific area. I have been interested in Semi/Self-supervised learning, and lately, I have been focusing on large-scale generative models like Diffusion models, and Neural representations such as NeRF. I am always trying to approach it with a mindset of wanting to learn. If you have any questions or are interested in collaborating, please feel free to contact me!
+
+Education
+======
 
 * Korea University, Seoul, Korea
   * M.S. Student in Computer Science and Engineering
