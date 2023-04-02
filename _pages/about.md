@@ -69,6 +69,7 @@ Academic Services
 ======
 ## Reviewer
 * Computer Vision and Pattern Recognition (**CVPR**), 2023
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
  
   
 Honors
