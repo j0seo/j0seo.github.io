@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-I am a 2nd-year M.S. student at Korea university under the supervision of Professor Seungryong Kim. My research interests are broadly in the fields of machine learning and computer vision, not limited to a specific area.<br>
+I am a 2nd-year student at Korea university under the supervision of Professor Seungryong Kim. My research interests are broadly in the fields of machine learning and computer vision, not limited to a specific area.<br>
 I have been interested in semi/self-supervised learning, and lately, I have been focusing on **large-scale generative models** like diffusion models, and **neural representations** such as NeRF. I am always trying to approach it with a mindset of wanting to learn. If you have any questions or are interested in collaborating, please feel free to contact me.
 
 Education
