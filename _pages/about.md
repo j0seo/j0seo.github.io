@@ -33,9 +33,16 @@ Experience
 Publications
 ======
 ## Preprints
+> <i style='font-style: normal;'>Let 2D Diffusion Model Know 3D-Consistency
+for Robust Text-to-3D Generation<br></i>
+>> <i style='font-style: normal;'>**Junyoung Seo**\*, Wooseok Jang\*, Min-Seop Kwak\*, Jaehoon Ko, Hyeonsu Kim, Junho Kim,
+Jin-Hwa Kim, Jiyoung Lee, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>**ArXiv** Preprint, 2023.<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/3DFuse/">[Project]</a> <a href="https://arxiv.org/abs/2303.07937">[Link]</a> 
+
 > <i style='font-style: normal;'>DiffFace: Diffusion-based Face Swapping with Facial Guidance<br></i>
 >> <i style='font-style: normal;'>Kihong Kim\*, Yunho Kim\*, Seokju Cho, **Junyoung Seo**, Jisu Nam, Kychul Lee,
-Seungryong Kim, Kwang Hee Lee<br></i>
+Seungryong Kim, and Kwang Hee Lee<br></i>
 >> <i style='font-style: normal;'>**ArXiv** Preprint, 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://hxngiee.github.io/DiffFace/">[Project]</a> <a href="https://arxiv.org/abs/2212.13344">[Link]</a> 
 
