@@ -36,6 +36,11 @@ Experience
 Publications
 ======
 ## Preprints
+> <i style='font-style: normal;'>Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation<br></i>
+>> <i style='font-style: normal;'>Susung Hong, **Junyoung Seo**, Sunghwan Hong, Heeseong Shin, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>**ArXiv** Preprint, 2023.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2305.14330">[Link]</a> 
+
 > <i style='font-style: normal;'>Let 2D Diffusion Model Know 3D-Consistency
 for Robust Text-to-3D Generation<br></i>
 >> <i style='font-style: normal;'>**Junyoung Seo**\*, Wooseok Jang\*, Min-Seop Kwak\*, Jaehoon Ko, Hyeonsu Kim, Junho Kim,
@@ -49,17 +54,17 @@ Seungryong Kim, and Kwang Hee Lee<br></i>
 >> <i style='font-style: normal;'>**ArXiv** Preprint, 2022.<br></i>
 >> <i style='font-style: normal;'><a href="https://hxngiee.github.io/DiffFace/">[Project]</a> <a href="https://arxiv.org/abs/2212.13344">[Link]</a> 
 
-> <i style='font-style: normal;'>DAG: Depth-Aware Guidance with Denoising Diffusion Probabilistic Models<br></i>
->> <i style='font-style: normal;'>Gyeongnyeon Kim\*, Wooseok Jang\*, Gyuseong Lee\*, Susung Hong, **Junyoung Seo**, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>**ArXiv** Preprint, 2022.<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DAG/">[Project]</a> <a href="https://arxiv.org/abs/2212.08861">[Link]</a> 
-
 > <i style='font-style: normal;'>AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning<br></i>
 >> <i style='font-style: normal;'>Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, Seokju Cho, **Junyoung Seo**, Daehwan Kim, Hansang Cho, and Seungryong Kim <br></i>
 >> <i style='font-style: normal;'>**ArXiv** Preprint, 2021.<br></i>
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2201.10444">[Link]</a>
   
 ## International Conference
+> <i style='font-style: normal;'>DAG: Depth-Aware Guidance with Denoising Diffusion Probabilistic Models<br></i>
+>> <i style='font-style: normal;'>Gyeongnyeon Kim\*, Wooseok Jang\*, Gyuseong Lee\*, Susung Hong, **Junyoung Seo**, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>IEEE CVPR Workshop - Generative Models for Computer Vision  (**CVPRW**), 2023. <br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DAG/">[Project]</a> <a href="https://arxiv.org/abs/2212.08861">[Link]</a>   
+  
 > <i style='font-style: normal;'>MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation<br></i>
 >> <i style='font-style: normal;'>**Junyoung Seo**\*, Gyuseong Lee\*, Seokju Cho, Jiyoung Lee, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>AAAI Conference on Artificial Intelligence (**AAAI**), 2023.<br></i>
