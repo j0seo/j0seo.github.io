@@ -17,7 +17,7 @@ Education
 ======
 
 * Korea University, Seoul, Korea
-  * M.S. Student in Computer Science and Engineering
+  * M.S./Ph.D. integrated Student in Computer Science and Engineering
   * Mar. 2022 - Present
 
 * Korea University, Seoul, Korea
