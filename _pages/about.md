@@ -26,8 +26,11 @@ Education
 
 Experience
 ======
+* Research Intern (Sony, Tokyo)
+  * Dec. 2023 - Feb. 2024
+
 * Visiting Researcher (Queen Mary University of London, UK)
-  * Jun. 2023 - Aug. 2023 (Expected)
+  * Jun. 2023 - Aug. 2023
 
 * Undergraduate Intern (Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea)
   * Jan. 2021 - Feb. 2022
