@@ -75,28 +75,23 @@ Jin-Hwa Kim, Jiyoung Lee, and Seungryong Kim<br></i>
 Academic Services
 ======
 ## Reviewer
-* Computer Vision and Pattern Recognition (**CVPR**), 2023
+* Computer Vision and Pattern Recognition (**CVPR**), 2023, 2024
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
  
   
 Honors
 ======
 * Award for Academic Excellence (2st Semester, 2021)
-  * Korea University, Korea (Jan. 2022)
-* Award for Academic Excellence (1st Semester, 2021)
-  * Korea University, Korea (Jul. 2021)
+  * 1st Semester of 2021, 2st Semester of 2020, and 1st Semester of 2020
+  * Korea University, Korea
 * KEPCO Scholarship
   * Korea Electric Power Corporation, Korea (Mar. 2021)
 * 3rd Prize, Barrier-free App Development Contest
   * Incorporated Association GreenLight and HYUNDAI AutoEver, Korea (Feb. 2021)
 * Special Award in Self-driving RC Car Development. Korea Embedded Software Contest
   * HYUNDAI MOBIS, Korea (Jan. 2021)
-* Award for Academic Excellence (2st Semester, 2020)
-  * Korea University, Korea (Jan. 2021)
 * Professor's Association(Seokrimhoe) Scholarship
   * Korea University, Korea (Sep. 2020)
-* Award for Academic Excellence (1st Semester, 2020)
-  * Korea University, Korea (Jul. 2020)
 * Grand Prize in App Development, SK Smarteen App Challenge
   * SK, Korea (Dec. 2013)
   
