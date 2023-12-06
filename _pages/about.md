@@ -81,7 +81,7 @@ Academic Services
   
 Honors
 ======
-* Award for Academic Excellence (2st Semester, 2021)
+* Award for Academic Excellence
   * 1st Semester of 2021, 2st Semester of 2020, and 1st Semester of 2020
   * Korea University, Korea
 * KEPCO Scholarship
