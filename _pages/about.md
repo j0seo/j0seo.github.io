@@ -26,7 +26,7 @@ Education
 
 Experience
 ======
-* Research Intern (Sony, Tokyo, Japan)
+* Research Intern (Sony Research, Tokyo, Japan)
   * Dec. 2023 - Feb. 2024
 
 * Visiting Researcher (Queen Mary University of London, UK)
