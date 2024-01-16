@@ -42,7 +42,7 @@ For all publications, please refer <a href="https://scholar.google.com/citations
 
 > <i style='font-style: normal;'>Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation<br></i>
 >> <i style='font-style: normal;'>Susung Hong, **Junyoung Seo**, Sunghwan Hong, Heeseong Shin, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>**ArXiv** Preprint, 2023.<br></i>
+>> <i style='font-style: normal;'>nternational Conference on Learning Representations (**ICLRv**), 2024.<br></i>
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2305.14330">[Link]</a> 
 
 > <i style='font-style: normal;'>Let 2D Diffusion Model Know 3D-Consistency
