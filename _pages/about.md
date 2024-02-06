@@ -39,7 +39,14 @@ Experience
 Featured Publications
 ======
 For all publications, please refer <a href="https://scholar.google.com/citations?user=orJRvmEAAAAJ&hl=ko&oi=sra">here</a>
+### Preprints
 
+> <i style='font-style: normal;'>Retrieval-Augmented Score Distillation for Text-to-3D Generation<br></i>
+>> <i style='font-style: normal;'>**Junyoung Seo**\*, Susung Hong\*, Wooseok Jang\*, Hyeonsu Kim, Minseop Kwak, Doyup Lee, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>**ArXiv** Preprint, 2024.<br></i>
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/RetDream/">[Project]</a> <a href="https://arxiv.org/abs/2402.02972">[Link]</a> 
+
+### International Conferences
 > <i style='font-style: normal;'>Let 2D Diffusion Model Know 3D-Consistency
 for Robust Text-to-3D Generation<br></i>
 >> <i style='font-style: normal;'>**Junyoung Seo**\*, Wooseok Jang\*, Min-Seop Kwak\*, Jaehoon Ko, Hyeonsu Kim, Junho Kim,
@@ -47,10 +54,6 @@ Jin-Hwa Kim, Jiyoung Lee, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**), 2024.<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/3DFuse/">[Project]</a> <a href="https://arxiv.org/abs/2303.07937">[Link]</a>
 
-> <i style='font-style: normal;'>Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation<br></i>
->> <i style='font-style: normal;'>Susung Hong, **Junyoung Seo**, Sunghwan Hong, Heeseong Shin, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>**ArXiv** Preprint, 2023.<br></i>
->> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2305.14330">[Link]</a> 
 
 > <i style='font-style: normal;'>DAG: Depth-Aware Guidance with Denoising Diffusion Probabilistic Models<br></i>
 >> <i style='font-style: normal;'>Gyeongnyeon Kim\*, Wooseok Jang\*, Gyuseong Lee\*, Susung Hong, **Junyoung Seo**, and Seungryong Kim<br></i>
