@@ -25,13 +25,13 @@ Education
 
 Experience
 ======
-* Research Intern (**SonyAI**, Tokyo, Japan)
+* Research Intern (SonyAI, Tokyo, Japan)
   * Dec. 2023 - Present
 
-* Visiting Researcher (**Queen Mary University of London**, UK)
+* Visiting Researcher (Queen Mary University of London, UK)
   * Jun. 2023 - Aug. 2023
 
-* Undergraduate Intern (**Korea University** <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea)
+* Undergraduate Intern (Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea)
   * Jan. 2021 - Feb. 2022
   * Advisor: Prof. <a href="https://seungryong.github.io">Seungryong Kim</a>
 
