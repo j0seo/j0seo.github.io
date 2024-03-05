@@ -25,8 +25,11 @@ Education
 
 Experience
 ======
+* Research Intern (SonyAI, Remote)
+  * Mar. 2024 - Present
+
 * Research Intern (SonyAI, Tokyo, Japan)
-  * Dec. 2023 - Present
+  * Dec. 2023 - Mar. 2024
 
 * Visiting Researcher (Queen Mary University of London, UK)
   * Jun. 2023 - Aug. 2023
