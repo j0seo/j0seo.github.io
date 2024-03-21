@@ -26,7 +26,7 @@ Education
 Experience
 ======
 * Research Intern (<a href="https://ai.sony">Sony AI</a>, Remote)
-  * Mar. 2024 - Present
+  * Mar. 2024 - May 2024 (Expected)
 
 * Research Intern (<a href="https://ai.sony">Sony AI</a>, Tokyo, Japan)
   * Dec. 2023 - Mar. 2024
