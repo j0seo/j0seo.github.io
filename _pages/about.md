@@ -48,7 +48,7 @@ For all publications, please refer <a href="https://scholar.google.com/citations
 >> <i style='font-style: normal;'>**ArXiv** Preprint, 2024.<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/RetDream/">[Project]</a> <a href="https://arxiv.org/abs/2402.02972">[Link]</a> 
 
-### International Conferences
+### International Conferences / Journals
 > <i style='font-style: normal;'>Let 2D Diffusion Model Know 3D-Consistency
 for Robust Text-to-3D Generation<br></i>
 >> <i style='font-style: normal;'>**Junyoung Seo**\*, Wooseok Jang\*, Min-Seop Kwak\*, Jaehoon Ko, Hyeonsu Kim, Junho Kim,
@@ -56,11 +56,9 @@ Jin-Hwa Kim, Jiyoung Lee, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**), 2024.<br></i>
 >> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/3DFuse/">[Project]</a> <a href="https://arxiv.org/abs/2303.07937">[Link]</a>
 
-
-> <i style='font-style: normal;'>DAG: Depth-Aware Guidance with Denoising Diffusion Probabilistic Models<br></i>
->> <i style='font-style: normal;'>Gyeongnyeon Kim\*, Wooseok Jang\*, Gyuseong Lee\*, Susung Hong, **Junyoung Seo**, and Seungryong Kim<br></i>
->> <i style='font-style: normal;'>IEEE CVPR Workshop - Generative Models for Computer Vision  (**CVPRW**), 2023. <br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/DAG/">[Project]</a> <a href="https://arxiv.org/abs/2212.08861">[Link]</a>
+> <i style='font-style: normal;'>Depth-Aware Guidance with Self-Estimated Depth Representations of Diffusion Models<br></i>
+>> <i style='font-style: normal;'>Gyeongnyeon Kim*, Wooseok Jang*, Gyuseong Lee*, Susung Hong, **Junyoung Seo**, and Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>Pattern Recognition (**PR**), 2023.<br></i>
 
 > <i style='font-style: normal;'>MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation<br></i>
 >> <i style='font-style: normal;'>**Junyoung Seo**\*, Gyuseong Lee\*, Seokju Cho, Jiyoung Lee, Seungryong Kim<br></i>
