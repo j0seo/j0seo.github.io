@@ -45,7 +45,7 @@ For all publications, please refer <a href="https://scholar.google.com/citations
 > <i style='font-style: normal;'>Retrieval-Augmented Score Distillation for Text-to-3D Generation<br></i>
 >> <i style='font-style: normal;'>**Junyoung Seo**\*, Susung Hong\*, Wooseok Jang\*, Hyeonsu Kim, Minseop Kwak, Doyup Lee, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>International Conference on Machine Learning (**ICML**), 2024.<br></i>
->> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/RetDream/">[Project]</a> <a href="https://arxiv.org/abs/2402.02972">[Link]</a> 
+>> <i style='font-style: normal;'><a href="https://ku-cvlab.github.io/ReDream/">[Project]</a> <a href="https://arxiv.org/abs/2402.02972">[Link]</a> 
 
 > <i style='font-style: normal;'>Let 2D Diffusion Model Know 3D-Consistency
 for Robust Text-to-3D Generation<br></i>
