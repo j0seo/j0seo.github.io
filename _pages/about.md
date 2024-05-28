@@ -42,6 +42,15 @@ Featured Publications
 ======
 For all publications, please refer <a href="https://scholar.google.com/citations?user=orJRvmEAAAAJ&hl=ko&oi=sra">here</a>
 
+### Preprints
+> <i style='font-style: normal;'>GenWarp: Single Image to Novel Views with
+Semantic-Preserving Generative Warping<br></i>
+>> <i style='font-style: normal;'>**Junyoung Seo**, Kazumi Fukuda, Takashi Shibuya, Takuya Narihira,
+Naoki Murata, Shoukang Hu, Chieh-Hsin Lai, Seungryong Kim, and Yuki Mitsufuji<br></i>
+>> <i style='font-style: normal;'>**ArXiv** Preprint, 2024.<br></i>
+>> <i style='font-style: normal;'><a href="https://genwarp-nvs.github.io">[Project]</a> <a href="https://arxiv.org/abs/2405.17251">[Link]</a> 
+
+### International Conferences / Journals
 > <i style='font-style: normal;'>Retrieval-Augmented Score Distillation for Text-to-3D Generation<br></i>
 >> <i style='font-style: normal;'>**Junyoung Seo**\*, Susung Hong\*, Wooseok Jang\*, Hyeonsu Kim, Minseop Kwak, Doyup Lee, and Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>International Conference on Machine Learning (**ICML**), 2024.<br></i>
