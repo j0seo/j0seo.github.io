@@ -15,7 +15,7 @@ I have been interested in image matching, semi/self-supervised learning, and lat
 Experience
 ======
 * Research Intern (<a href="https://ai.sony">Sony AI</a>, Remote)
-  * Mar. 2024 - May 2024 (Expected)
+  * Mar. 2024 - May 2024
 
 * Research Intern (<a href="https://ai.sony">Sony AI</a>, Tokyo, Japan)
   * Dec. 2023 - Mar. 2024
