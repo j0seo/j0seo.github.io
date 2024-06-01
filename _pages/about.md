@@ -29,7 +29,7 @@ Experience
 
 Featured Publications
 ======
-For all publications, please refer <a href="https://scholar.google.com/citations?user=orJRvmEAAAAJ&hl=ko&oi=sra">here</a>
+For all publications, please refer <a href="https://scholar.google.com/citations?user=orJRvmEAAAAJ&hl=ko&oi=sra">here</a>.
 
 ### Preprints
 > <i style='font-style: normal;'>GenWarp: Single Image to Novel Views with
