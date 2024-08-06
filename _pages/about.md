@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-I am a 3rd-year Ph.D. student at Korea university under the supervision of Professor Seungryong Kim. My research interests are broadly in the fields of machine learning and computer vision.<br>
+I am a 3rd-year Ph.D. student at KAIST AI under the supervision of Professor Seungryong Kim. My research interests are broadly in the fields of machine learning and computer vision.<br>
 I have been interested in image matching, semi/self-supervised learning, and lately, I have been focusing on **large-scale generative models** like diffusion models for **video, 3D, and neural representations**. If you have any questions or are interested in collaborating, please feel free to contact me!
 
 Experience
