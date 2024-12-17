@@ -10,7 +10,8 @@ redirect_from:
 About Me
 ======
 I am a Ph.D. student at KAIST AI under the supervision of Professor Seungryong Kim. My research interests are broadly in the fields of machine learning and computer vision.<br>
-I have been interested in image matching, semi/self-supervised learning, and lately, I have been focusing on **large-scale generative models** like diffusion models for **video, 3D, and neural representations**. If you have any questions or are interested in collaborating, please feel free to contact me!
+I have been interested in image matching, semi/self-supervised learning, and lately, I have been focusing on **large-scale generative models** like diffusion models for **video, 3D, and 4D representations**. If you have any questions or are interested in collaborating, please feel free to contact me! <br><br>
+I'll be interning at Meta Reality Lab in London starting from March 2025! I’m super excited to meet amazing researchers in London :)
 
 Experience
 ======
