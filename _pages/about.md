@@ -14,16 +14,16 @@ I have been interested in image matching, semi/self-supervised learning, and lat
 
 Experience
 ======
-* Research Scientist Intern (<b>Meta</b>, Reality Lab, London, UK)
+* Research Scientist Intern (<b>Meta</b>, Reality Lab, London)
   * Mar. 2025 - Present
 
 * Research Scientist Intern (<b>Sony AI</b>, Remote)
   * Mar. 2024 - May 2024
 
-* Research Scientist Intern (<b>Sony AI</b>, Tokyo, Japan)
+* Research Scientist Intern (<b>Sony AI</b>, Tokyo)
   * Dec. 2023 - Mar. 2024
 
-* Visiting Researcher (<b>Queen Mary University of London</b>, UK)
+* Visiting Researcher (<b>Queen Mary University of London</b>)
   * Jun. 2023 - Aug. 2023
 
 
