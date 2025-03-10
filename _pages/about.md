@@ -10,15 +10,17 @@ redirect_from:
 About Me
 ======
 I am a Ph.D. student at KAIST AI under the supervision of Professor Seungryong Kim. My research interests are broadly in the fields of machine learning and computer vision.<br>
-I have been interested in image matching, semi/self-supervised learning, and lately, I have been focusing on **large-scale generative models** like diffusion models for **video, 3D, and 4D representations**. If you have any questions or are interested in collaborating, please feel free to contact me! <br><br>
-I'll be interning at Meta Reality Lab in London starting from March 2025! I’m super excited to meet amazing researchers in London :)
+I have been interested in image matching, semi/self-supervised learning, and lately, I have been focusing on **large-scale generative models** like diffusion models for **video, 3D, and 4D representations**. If you have any questions or are interested in collaborating, please feel free to contact me!
 
 Experience
 ======
-* Research Intern (<a href="https://ai.sony">Sony AI</a>, Remote)
+* Research Scientist Intern (<a href="https://about.meta.com/uk/realitylabs/">Meta</a>, Reality Lab, London, UK)
+  * Mar. 2025 - Present
+
+* Research Scientist Intern (<a href="https://ai.sony">Sony AI</a>, Remote)
   * Mar. 2024 - May 2024
 
-* Research Intern (<a href="https://ai.sony">Sony AI</a>, Tokyo, Japan)
+* Research Scientist Intern (<a href="https://ai.sony">Sony AI</a>, Tokyo, Japan)
   * Dec. 2023 - Mar. 2024
 
 * Visiting Researcher (Queen Mary University of London, UK)
