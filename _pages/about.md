@@ -14,21 +14,18 @@ I have been interested in image matching, semi/self-supervised learning, and lat
 
 Experience
 ======
-* Research Scientist Intern (<a href="https://about.meta.com/uk/realitylabs/">Meta</a>, Reality Lab, London, UK)
+* Research Scientist Intern (<b>Meta</b>, Reality Lab, London, UK)
   * Mar. 2025 - Present
 
-* Research Scientist Intern (<a href="https://ai.sony">Sony AI</a>, Remote)
+* Research Scientist Intern (<b>Sony AI</b>, Remote)
   * Mar. 2024 - May 2024
 
-* Research Scientist Intern (<a href="https://ai.sony">Sony AI</a>, Tokyo, Japan)
+* Research Scientist Intern (<b>Sony AI</b>, Tokyo, Japan)
   * Dec. 2023 - Mar. 2024
 
-* Visiting Researcher (Queen Mary University of London, UK)
+* Visiting Researcher (<b>Queen Mary University of London</b>, UK)
   * Jun. 2023 - Aug. 2023
 
-* Undergraduate Intern (Korea University <a href="https://cvlab.korea.ac.kr">CVLAB</a>, Seoul, Korea)
-  * Jan. 2021 - Feb. 2022
-  * Advisor: Prof. <a href="https://seungryong.github.io">Seungryong Kim</a>
 
 Featured Publications
 ======
