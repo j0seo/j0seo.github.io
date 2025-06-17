@@ -26,6 +26,10 @@ Experience
 * Visiting Researcher (<b>Queen Mary University of London</b>)
   * Jun. 2023 - Aug. 2023
 
+News
+======
+* **Jun 2025** / <a href="https://cvlab-kaist.github.io/Vid-CamEdit/">Vid-CamEdit</a> and <a href="https://cvlab-kaist.github.io/DDUSt3R/">D^2USt3R</a> are out on arXiv!
+* **Mar 2025** / Started as a Research Scientist Intern at Meta Reality Labs!
 
 Featured Publications
 ======
