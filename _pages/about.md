@@ -77,9 +77,7 @@ Jin-Hwa Kim, Jiyoung Lee, and Seungryong Kim<br></i>
 Academic Services
 ======
 ## Reviewer
-* Computer Vision and Pattern Recognition (**CVPR**), 2023, 2024
-* European Conference on Computer Vision (**ECCV**), 2024
-* IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
+* NeurIPS, ICLR, TPAMI, CVPR, ICCV, ECCV and AAAI
  
   
 Honors
