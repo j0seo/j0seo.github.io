@@ -42,7 +42,7 @@ For all publications, please refer <a href="https://scholar.google.com/citations
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2504.06264">[Link]</a>
 
 > <i style='font-style: normal;'>DiffFace: Diffusion-based Face Swapping with Facial Guidance<br></i>
->> <i style='font-style: normal;'>Kihong Kim, Yunho Kim, Seokju Cho, **Junyoung Seo**, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee<br></i>
+>> <i style='font-style: normal;'>Kihong Kim, Yunho Kim, Seokju Cho, **Junyoung Seo**, Jisu Nam, Kychul Lee, Seungryong Kim, Kwanghee Lee<br></i>
 >> <i style='font-style: normal;'>Pattern Recognition (**PR**), 2025.<br></i>
 >> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/DDUSt3R/">[Project]</a> <a href="https://arxiv.org/abs/2212.13344">[Link]</a>
 
