@@ -38,12 +38,12 @@ For all publications, please refer <a href="https://scholar.google.com/citations
 ### International Conferences / Journals
 > <i style='font-style: normal;'>D<sup>2</sup>USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes<br></i>
 >> <i style='font-style: normal;'>Jisang Han, Honggyu An, Jaewoo Jung, Takuya Narihira, **Junyoung Seo**, Kazumi Fukuda, Chaehyun Kim, Sunghwan Hong, Yuki Mitsufuji, Seungryong Kim<br></i>
->> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS)**, 2025.<br></i>
+>> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2025.<br></i>
 >> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2504.06264">[Link]</a>
 
 > <i style='font-style: normal;'>DiffFace: Diffusion-based Face Swapping with Facial Guidance<br></i>
 >> <i style='font-style: normal;'>Kihong Kim, Yunho Kim, Seokju Cho, **Junyoung Seo**, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee<br></i>
->> <i style='font-style: normal;'>Pattern Recognition (**PR)**, 2025.<br></i>
+>> <i style='font-style: normal;'>Pattern Recognition (**PR**), 2025.<br></i>
 >> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/DDUSt3R/">[Project]</a> <a href="https://arxiv.org/abs/2212.13344">[Link]</a>
 
 
@@ -51,7 +51,7 @@ For all publications, please refer <a href="https://scholar.google.com/citations
 Semantic-Preserving Generative Warping<br></i>
 >> <i style='font-style: normal;'>**Junyoung Seo**, Kazumi Fukuda, Takashi Shibuya, Takuya Narihira,
 Naoki Murata, Shoukang Hu, Chieh-Hsin Lai, Seungryong Kim, and Yuki Mitsufuji<br></i>
->> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS)**, 2024.<br></i>
+>> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2024.<br></i>
 >> <i style='font-style: normal;'><a href="https://genwarp-nvs.github.io">[Project]</a> <a href="https://arxiv.org/abs/2405.17251">[Link]</a> 
 
 > <i style='font-style: normal;'>Retrieval-Augmented Score Distillation for Text-to-3D Generation<br></i>
