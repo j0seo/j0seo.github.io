@@ -28,6 +28,7 @@ Experience
 
 News
 ======
+* **Oct 2025** / "<a href="https://lookahead-anchoring.github.io/">Lookahead Anchoring</a>: Preserving Character Identity in Audio-Driven Human Animation" is out on arXiv!
 * **Jun 2025** / <a href="https://cvlab-kaist.github.io/Vid-CamEdit/">Vid-CamEdit</a> and <a href="https://cvlab-kaist.github.io/DDUSt3R/">D^2USt3R</a> are out on arXiv!
 * **Mar 2025** / Started as a Research Scientist Intern at Meta Reality Labs!
 
