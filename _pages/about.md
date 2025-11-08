@@ -28,15 +28,25 @@ Experience
 
 News
 ======
+* **Nov 2025** / Our <a href="https://cvlab-kaist.github.io/DDUSt3R/">D^2USt3R</a> and <a href="https://cvlab-kaist.github.io/Vid-CamEdit/">Vid-CamEdit</a> are accepted to NeurIPS 2025 and AAAI 2026!
 * **Oct 2025** / "<a href="https://lookahead-anchoring.github.io/">Lookahead Anchoring</a>: Preserving Character Identity in Audio-Driven Human Animation" is out on arXiv!
 * **Jun 2025** / <a href="https://cvlab-kaist.github.io/Vid-CamEdit/">Vid-CamEdit</a> and <a href="https://cvlab-kaist.github.io/DDUSt3R/">D^2USt3R</a> are out on arXiv!
 * **Mar 2025** / Started as a Research Scientist Intern at Meta Reality Labs!
 
-Featured Publications
+Publications
 ======
 For all publications, please refer <a href="https://scholar.google.com/citations?user=orJRvmEAAAAJ&hl=ko&oi=sra">here</a>.
 
-### International Conferences / Journals
+> <i style='font-style: normal;'>Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human Animation<br></i>
+>> <i style='font-style: normal;'>**Junyoung Seo**, Rodrigo Mira, Alexandros Haliassos, Stella Bounareli, Honglie Chen, Linh Tran, Seungryong Kim, Zoe Landgraf, Jie Shen<br></i>
+>> <i style='font-style: normal;'>ArXiv, Oct 2025.<br></i>
+>> <i style='font-style: normal;'><a href="https://lookahead-anchoring.github.io/">[Project]</a> <a href="https://arxiv.org/abs/2510.23581">[Link]</a>
+
+> <i style='font-style: normal;'>Vid-CamEdit: Video Camera Trajectory Editing with Generative Rendering from Estimated Geometry<br></i>
+>> <i style='font-style: normal;'>**Junyoung Seo**\*, Jisang Han\*, Jaewoo Jung\*, Siyoon Jin, Joungbin Lee, Takuya Narihira, Kazumi Fukuda, Takashi Shibuya, Donghoon Ahn, Shoukang Hu, Seungryong Kim, Yuki Mitsufuji<br></i>
+>> <i style='font-style: normal;'>AAAI Conference on Artificial Intelligence (**AAAI**), 2026.<br></i>
+>> <i style='font-style: normal;'><a href="https://arxiv.org/abs/2506.13697">[Link]</a>
+
 > <i style='font-style: normal;'>D<sup>2</sup>USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes<br></i>
 >> <i style='font-style: normal;'>Jisang Han, Honggyu An, Jaewoo Jung, Takuya Narihira, **Junyoung Seo**, Kazumi Fukuda, Chaehyun Kim, Sunghwan Hong, Yuki Mitsufuji, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>Neural Information Processing Systems (**NeurIPS**), 2025.<br></i>
