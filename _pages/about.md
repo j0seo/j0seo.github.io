@@ -28,6 +28,7 @@ Experience
 
 News
 ======
+* **Nov 2025** / <a href="https://cvlab-kaist.github.io/3DScenePrompt/">3D Scene Prompting</a> for video generation is out on arXiv!
 * **Nov 2025** / Our <a href="https://cvlab-kaist.github.io/DDUSt3R/">D^2USt3R</a> and <a href="https://cvlab-kaist.github.io/Vid-CamEdit/">Vid-CamEdit</a> are accepted to NeurIPS 2025 and AAAI 2026!
 * **Oct 2025** / "<a href="https://lookahead-anchoring.github.io/">Lookahead Anchoring</a>: Preserving Character Identity in Audio-Driven Human Animation" is out on arXiv!
 * **Jun 2025** / <a href="https://cvlab-kaist.github.io/Vid-CamEdit/">Vid-CamEdit</a> and <a href="https://cvlab-kaist.github.io/DDUSt3R/">D^2USt3R</a> are out on arXiv!
