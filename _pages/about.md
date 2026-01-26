@@ -28,7 +28,7 @@ Experience
 
 News
 ======
-* **Nov 2025** / <a href="https://cvlab-kaist.github.io/3DScenePrompt/">3D Scene Prompting</a> for video generation is out on arXiv!
+* **Jan 2026** / <a href="https://cvlab-kaist.github.io/3DScenePrompt/">3D Scene Prompting</a> for video generation is accepted to ICLR 2026!
 * **Nov 2025** / Our <a href="https://cvlab-kaist.github.io/DDUSt3R/">D^2USt3R</a> and <a href="https://cvlab-kaist.github.io/Vid-CamEdit/">Vid-CamEdit</a> are accepted to NeurIPS 2025 and AAAI 2026!
 * **Oct 2025** / "<a href="https://lookahead-anchoring.github.io/">Lookahead Anchoring</a>: Preserving Character Identity in Audio-Driven Human Animation" is out on arXiv!
 * **Jun 2025** / <a href="https://cvlab-kaist.github.io/Vid-CamEdit/">Vid-CamEdit</a> and <a href="https://cvlab-kaist.github.io/DDUSt3R/">D^2USt3R</a> are out on arXiv!
@@ -42,6 +42,11 @@ For all publications, please refer <a href="https://scholar.google.com/citations
 >> <i style='font-style: normal;'>**Junyoung Seo**, Rodrigo Mira, Alexandros Haliassos, Stella Bounareli, Honglie Chen, Linh Tran, Seungryong Kim, Zoe Landgraf, Jie Shen<br></i>
 >> <i style='font-style: normal;'>ArXiv, Oct 2025.<br></i>
 >> <i style='font-style: normal;'><a href="https://lookahead-anchoring.github.io/">[Project]</a> <a href="https://arxiv.org/abs/2510.23581">[Link]</a>
+
+> <i style='font-style: normal;'>3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation<br></i>
+>> <i style='font-style: normal;'>JoungBin Lee\*, Jaewoo Jung\*, Jisang Han\*, Takuya Narihira, Kazumi Fukuda, **Junyoung Seo**, Sunghwan Hong, Yuki Mitsufuji, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**), 2026.<br></i>
+>> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/3DScenePrompt/">[Project]</a> <a href="https://arxiv.org/abs/2510.14945">[Link]</a>
 
 > <i style='font-style: normal;'>Vid-CamEdit: Video Camera Trajectory Editing with Generative Rendering from Estimated Geometry<br></i>
 >> <i style='font-style: normal;'>**Junyoung Seo**\*, Jisang Han\*, Jaewoo Jung\*, Siyoon Jin, Joungbin Lee, Takuya Narihira, Kazumi Fukuda, Takashi Shibuya, Donghoon Ahn, Shoukang Hu, Seungryong Kim, Yuki Mitsufuji<br></i>
