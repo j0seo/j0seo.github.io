@@ -43,6 +43,11 @@ For all publications, please refer <a href="https://scholar.google.com/citations
 >> <i style='font-style: normal;'>ArXiv, Oct 2025.<br></i>
 >> <i style='font-style: normal;'><a href="https://lookahead-anchoring.github.io/">[Project]</a> <a href="https://arxiv.org/abs/2510.23581">[Link]</a>
 
+> <i style='font-style: normal;'>Correspondence-Attention Alignment for Multi-View Diffusion Models<br></i>
+>> <i style='font-style: normal;'>Minkyung Kwon\*, Jinhyeok Choi\*, Jiho Park\*, Seonghu Jeon, Jinhyuk Jang, **Junyoung Seo**, Minseop Kwak, Jin-Hwa Kim, Seungryong Kim<br></i>
+>> <i style='font-style: normal;'>IEEE Conf. Computer Vision Pattern Recognition (**CVPR**), 2026.<br></i>
+>> <i style='font-style: normal;'><a href="https://cvlab-kaist.github.io/CAMEO/">[Project]</a> <a href="https://arxiv.org/abs/2512.03045">[Link]</a>
+
 > <i style='font-style: normal;'>3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation<br></i>
 >> <i style='font-style: normal;'>JoungBin Lee\*, Jaewoo Jung\*, Jisang Han\*, Takuya Narihira, Kazumi Fukuda, **Junyoung Seo**, Sunghwan Hong, Yuki Mitsufuji, Seungryong Kim<br></i>
 >> <i style='font-style: normal;'>International Conference on Learning Representations (**ICLR**), 2026.<br></i>
