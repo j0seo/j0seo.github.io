@@ -148,6 +148,12 @@ span.highlight {
   vertical-align: top;
 }
 
+/* Publication image/video rounding */
+.pub-row td img,
+.pub-row td video {
+  border-radius: 6px;
+}
+
 /* Mobile-only publication title row: hidden on desktop */
 .pub-mobile-title {
   display: none;
