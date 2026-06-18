@@ -154,6 +154,21 @@ span.highlight {
   border-radius: 6px;
 }
 
+/* Highlighted (featured) publication rows */
+.pub-row.pub-highlight td {
+  background-color: #fff8dc;
+}
+
+.pub-row.pub-highlight td:first-child {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+.pub-row.pub-highlight td:last-child {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
 /* Mobile-only publication title row: hidden on desktop */
 .pub-mobile-title {
   display: none;
@@ -241,5 +256,16 @@ span.highlight {
   .pub-row td video {
     max-width: 100% !important;
     height: auto !important;
+  }
+
+  .pub-mobile-title.pub-highlight td,
+  .pub-row.pub-highlight td {
+    background: #fff8dc !important;
+  }
+
+  .pub-mobile-title.pub-highlight td {
+    box-shadow:
+      0 11px 0 -1px #fff8dc,
+      0 10px 0 0 #e8e8e8;
   }
 }
